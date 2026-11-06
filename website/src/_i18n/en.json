@@ -1,0 +1,26 @@
+{
+  "langName": "English",
+  "locale": "en_US",
+  "siteNameLocal": "",
+  "iconAlt": "IOOI app icon: a butterfly on a sheet of folded paper",
+  "skip": "Skip to content",
+  "soon": "Coming soon",
+  "nav": {
+    "label": "Main menu",
+    "home": "Home",
+    "support": "Support",
+    "privacy": "Privacy"
+  },
+  "lang": {
+    "label": "Language"
+  },
+  "cta": {
+    "appStore": "Download on the App Store"
+  },
+  "footer": {
+    "nav": "About this site",
+    "summary": "IOOI has no server of its own and collects nothing about you.",
+    "contact": "Contact",
+    "trademarks": "Apple, iPhone, iMessage, Apple Pencil and App Store are trademarks of Apple Inc. IOOI is not affiliated with or endorsed by Apple."
+  }
+}

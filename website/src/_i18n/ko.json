@@ -1,0 +1,26 @@
+{
+  "langName": "한국어",
+  "locale": "ko_KR",
+  "siteNameLocal": "",
+  "iconAlt": "IOOI 앱 아이콘: 반으로 접힌 종이 위의 나비",
+  "skip": "본문으로 바로 가기",
+  "soon": "곧 공개돼요",
+  "nav": {
+    "label": "주요 메뉴",
+    "home": "홈",
+    "support": "지원",
+    "privacy": "개인정보"
+  },
+  "lang": {
+    "label": "언어 선택"
+  },
+  "cta": {
+    "appStore": "App Store에서 받기"
+  },
+  "footer": {
+    "nav": "사이트 정보",
+    "summary": "IOOI는 개발자가 운영하는 서버가 없고, 이용자의 정보를 수집하지 않아요.",
+    "contact": "문의",
+    "trademarks": "Apple, iPhone, iMessage, Apple Pencil, App Store는 Apple Inc.의 상표예요. IOOI는 Apple과 제휴하거나 보증을 받은 앱이 아니에요."
+  }
+}

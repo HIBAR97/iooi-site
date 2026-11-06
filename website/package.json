@@ -1,0 +1,14 @@
+{
+  "name": "iooi-website",
+  "version": "1.0.0",
+  "description": "Public website for IOOI (home, support and privacy pages for the App Store listing)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:release": "node build.mjs --release",
+    "check": "node lib/check.mjs",
+    "preview": "node build.mjs --serve --watch"
+  },
+  "engines": { "node": ">=20.6" }
+}
