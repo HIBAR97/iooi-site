@@ -25,3 +25,9 @@ node build.mjs --serve --watch    # preview at http://127.0.0.1:8080/
 The site is published from its own **public** repo (`HIBAR97/iooi-site`, local copy `../iooi-site`), so the app's source stays private.
 Edit here, run `scripts/export-website.sh`, then commit and `git push` in `iooi-site`; its workflow builds with `--release` and deploys
 to GitHub Pages at https://hibar97.github.io/iooi-site/.
+
+## Privacy policy PDF
+
+`src/assets/IOOI-privacy-policy.pdf` (Korean, then English) is rendered from `docs/PRIVACY.md` by `node website/tools/make-privacy-pdf.mjs` (headless Chrome) and linked
+from both privacy pages. Run it again after every change to the policy or its effective date, then rebuild and export.
+Live: https://hibar97.github.io/iooi-site/assets/IOOI-privacy-policy.pdf
